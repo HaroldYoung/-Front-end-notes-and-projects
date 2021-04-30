@@ -1,0 +1,27 @@
+.属性名称{
+    font-size:'10px';
+    color:'blue';
+    font-style:oblique;
+}   
+
+.left_box{
+    float:left;
+    background-color:lightseagreen;
+    width:48px;
+    height: 700px;
+}
+
+.正文{
+    font-size:'5px';
+    width:900px;
+    border-radius: 3px;
+    margin:3px;
+    padding: 15px;
+    color:rebeccapurple;
+
+}
+
+h.属性名称 p{
+    color: maroon;
+    font-size: 0.5cm;
+}

@@ -1,0 +1,39 @@
+h{
+    font-size:'100px';
+    border-style:dashed;
+    border-radius: 8px;
+    border-color: lawngreen;
+    margin:2px;
+    padding:2px;
+    
+}
+
+.属性名称{
+    font-size:'10px';
+    color:'blue';
+    font-style:oblique;
+}   
+
+.left_box{
+    float:left;
+    background-color:lightseagreen;
+    width:48px;
+    height: 700px;
+}
+
+.正文{
+    float:left;
+    font-size:'5px';
+    width:900px;
+}
+
+h.属性名称 p{
+    color: maroon;
+    font-size: 0.5cm;
+}
+
+.des {
+     color:darkblue;
+     width:80px;
+     height:900px;
+}

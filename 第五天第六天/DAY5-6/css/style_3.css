@@ -1,0 +1,44 @@
+.属性名称{
+    float: left;
+    font-size:'10px';
+    border:5px dotted black;
+    color:'blue';
+    font-style:oblique;
+    width:150px;
+    height:60px;
+    margin:0px;
+    background-color: rgb(165, 178, 190);
+}   
+
+.left_box{
+    float:left;
+    background-color:lightseagreen;
+    width:50px;
+    height: 700px;
+}
+
+.正文{
+    font-size:'5px';
+    width:900px;
+    height:900px;
+    border-radius: 3px;
+    border:5px dashed brown;
+    margin:3px;
+    padding: 15px;
+    color:rebeccapurple;
+
+}
+
+
+p{
+    border:3px solid green;
+    float:right;
+    padding:10px;
+    width:680px;
+    height:60px;
+    margin:0px;
+}
+
+.左边浮动{
+    color:tomato;
+}
